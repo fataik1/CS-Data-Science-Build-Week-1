@@ -1,3 +1,4 @@
+#Not a main KNN was working on the side for this. Not finished
 import numpy as np
 from collections import Counter
  
