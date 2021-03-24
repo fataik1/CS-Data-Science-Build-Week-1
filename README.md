@@ -55,3 +55,6 @@ implementation of the algorithm based on the information presented.
 
 Post your entry to any blog site, either your own or a platform like
 [Medium](https://medium.com/).
+
+Here is my blog post:
+[Fatai's KNN Blog Post](https://medium.com/@fataiking/how-to-implement-a-k-nearest-neighbor-algorithm-d9f81b51bc3)

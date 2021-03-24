@@ -11,7 +11,7 @@ class KNN:
         self.k = k
 
     def fit(self, X, y):
-        #store our training exmaple
+        #store our training example
         self.X_train = X
         self.y_train = y
 
